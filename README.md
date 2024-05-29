@@ -1,2 +1,2 @@
 # Blackcoffer-data-scientist-assignments
-THe python codes for two assignments
+Python codes for two assignments are present here
